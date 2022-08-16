@@ -1,0 +1,20 @@
+@font-face {
+    font-family: 'Roboto';
+    src: "./fonts/RobotoMono-Bold.ttf";
+}
+
+body {
+    font-family: "Roboto";
+    background: blue;
+}
+
+#maintimer {
+    margin: 60px 0px;
+    color: white;
+    text-align: center;
+    font-size: 20em;
+    font-weight: bolder;
+}
+
+
+
